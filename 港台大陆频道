@@ -9,6 +9,7 @@
 广东珠江,http://27.41.245.32:801/hls/25/index.m3u8
 广东体育,https://live.catvod.com/iptv.php?id=gdty01
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://rihou.cc:555/tv/[AtI]广东体育
@@ -257,7 +258,7 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭电影,http://27.41.245.32:801/hls/905/index.m3u8
 CHC家庭电影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 HBO,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/202.ts
-PopC电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/45.ts
+PopC电影,http://bxtv.3a.ink/api.php?id=popc
 PopC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn
