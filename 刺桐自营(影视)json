@@ -5,17 +5,16 @@
     //"spider": "http://diy.cttv.vip/ys/jar/spider.jar;md5;06925c578c423744fb4acd1c1806d4d6", 
     //"spider": "http://diy.cttv.vip/ys/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
     "spider":"http://diy.cttv.vip/ys/jar/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
-    "lives": 
+   "lives": 
   [
   {
-     "name": "iptvpro",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
-      "epg": "https://diyp2.112114.xyz/?ch={name}&date={date}"
-    }
+    "name": "live",
+    "type": 0,
+    "url": "https://www.cttv.vip/ys/json/ctzb.txt",
+    "logo": "https://www.cttv.vip/ys/images/{name}.png"
+	}
   ],
-    
+        
   "sites": 
   [
      // {
