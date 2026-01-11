@@ -42,6 +42,16 @@
             "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
         },
         {
+            "key": "csp_Kugou",
+            "name": "📚酷狗音乐┃守旺",
+            "type": 3,
+            "api": "csp_Kugou",
+            "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
+            "playerType": 2,
+            "ext": {"classes": [{"type_name": "酷狗",
+            "type_id": "kugou"
+        },
+        {
              "key": "hipy_js_酷我听书[听]",
              "name": "🐬酷我听书",
               "type": 3,
