@@ -57,17 +57,6 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-    {
-      "key": "双星",
-      "name": "🐬双星┃4K",
-      "type": 3,
-      "api": "csp_Star2Guard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
       {
       "key": "木瓜",
       "name": "🥑木瓜┃App",
