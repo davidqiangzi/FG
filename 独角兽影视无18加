@@ -549,11 +549,11 @@
              "timeout": 30
         },
         {
-            "name": "🦄4gTV",
+            "name": "🦄4gTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "http://4gtv.iill.top/4gtv.m3u",
-             "timeout": 30
+            "timeout": 30
         },
         {
             "name": "🦄jackTV(梯子)",
