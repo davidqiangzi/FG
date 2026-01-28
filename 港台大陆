@@ -531,6 +531,7 @@ CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
 广东新闻720p,http://74.91.26.218:82/live/gdxw.m3u8
 广东新闻720p,http://111.170.156.74:3344/广东地方/gdtv.php?id=45
 广东影视576p,http://58.253.171.25:8188/udp/239.0.1.54:5011
+广东影视576p,http://222.125.172.198:8081/hls/50/index.m3u8
 广东影视720p,http://111.170.156.74:3344/广东地方/gdtv.php?id=53
 广东民生1080p,http://113.119.25.135:58888/udp/239.77.0.225:5146
 广东民生1080p,http://183.236.43.98:4013/udp/239.77.0.225:5146
@@ -553,8 +554,6 @@ CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
 广州新闻720p,http://111.170.156.74:3344/地方/地方/guangdong/guangzhou.php?id=xinwen
 广州南国都市1080p,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 广州南国都市1080p,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-深圳都市1080p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IY2Nqo&tk=inWducl7RAaR
-深圳电视剧720p,http://36.36.200.196:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 18+频道(免翻),#genre#
 花花公子PLAYBOY 720p,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
