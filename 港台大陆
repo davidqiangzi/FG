@@ -151,6 +151,8 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 星空卫视576P,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
 新聞频道,#genre#
+CCTV13新闻1080p,http://111.127.156.214:51234/rtp/239.29.1.123:5000
+CCTV13新闻1080p,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
 无线新闻台1080p,http://74.91.26.218:82/live/inews.m3u8
 无线新闻台1080p,http://119.237.111.230:55555/stream/channelid/1828814827?ticket=0dafc7000909c53b8513e03549ac79cab7dac54b&profile=pass
 无线新闻台1080p,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -314,6 +316,7 @@ CCTV12社会与法,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV12社会与法,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 CCTV12社会与法,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
 CCTV12社会与法,http://119.123.176.238:8086/hls/13/index.m3u8
+CCTV13新闻1080p,http://111.127.156.214:51234/rtp/239.29.1.123:5000
 CCTV13新闻1080p,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
 CCTV14少儿,http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
 CCTV14少儿,https://iptv.catvod.com/live.php?id=CCTV-14
